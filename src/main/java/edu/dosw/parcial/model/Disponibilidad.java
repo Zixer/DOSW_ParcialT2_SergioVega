@@ -5,9 +5,14 @@ public class Disponibilidad {
     private Date fecha;
     private LocalTime hora_in;
     private LocalTime hora_fin;
-    private String modalidad;
-    private String estado;
+    private Modalidad modalidad;
+    private Estado estado;
     private String correo_tutor;
-    private String materia;
+    private String materia; {
+
+    public enum Estado { LIBRE, OCUPADO }
+    public enum Estado { VIRTUAL, PRESENCIAL }
+
+    }
 
 }
