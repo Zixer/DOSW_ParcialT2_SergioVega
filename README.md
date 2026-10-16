@@ -2,6 +2,8 @@
 
 Integrantes: Santiago Ibañez & Sergio Vega
 
+https://github.com/DOSW-2026-2/PT2-DOSW-G03
+
 ### Diagrama entidad-relación (ER)
 
 El siguiente diagrama representa la estructura de las entidades seleccionadas y las relaciones entre ellas.
